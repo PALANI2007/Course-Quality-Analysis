@@ -142,7 +142,7 @@ Course-Quality-Analysis
 
 **Palanivel M**
 
-Department of AI & Data Science
+Department of computer science and engineering
 
 Rathinam Technical Campus
 
